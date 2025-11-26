@@ -1,13 +1,11 @@
 {
-  "name": "Legendary Smart Owl",
-  "description": "Легендарное изображение умной совы",
-  "image": "https://raw.githubusercontent.com/AlexeyVin20/Ton_NFT/main/Generated%20Image%20November%2025%2C%202025%20-%207_16PM.png",
-  "attributes": [
-    {
-      "trait_type": "Year",
-      "value": "2025"
-    }
-  ]
-
+    "name": "Ton NFT #0",
+    "description": "UPDATED Version 2.0! Time: 14:13:37",
+    "image": "https://ton.org/download/ton_symbol.png",
+    "attributes": [
+        {
+            "trait_type": "Power",
+            "value": 999
+        }
+    ]
 }
-

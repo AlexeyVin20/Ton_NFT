@@ -1,7 +1,7 @@
 {
   "name": "Legendary Smart Owl",
   "description": "Легендарное изображение умной совы",
-  "image": "https://raw.githubusercontent.com/AlexeyVin20/Ton_NFT/refs/heads/main/Generated%20Image%20November%2025%2C%202025%20-%207_16PM.png",
+  "image": "https://raw.githubusercontent.com/AlexeyVin20/Ton_NFT/main/Generated%20Image%20November%2025%2C%202025%20-%207_16PM.png",
   "attributes": [
     {
       "trait_type": "Year",
@@ -10,3 +10,4 @@
   ]
 
 }
+

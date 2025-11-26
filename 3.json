@@ -1,7 +1,7 @@
 {
   "name": "Rare Smart Bear",
   "description": "Редкое изображение медведя в очках",
-  "image": "https://raw.githubusercontent.com/AlexeyVin20/Ton_NFT/refs/heads/main/Generated%20Image%20November%2025%2C%202025%20-%207_19PM.png",
+  "image": "https://raw.githubusercontent.com/AlexeyVin20/Ton_NFT/main/Generated%20Image%20November%2025%2C%202025%20-%207_19PM.png",
   "attributes": [
     {
       "trait_type": "Year",
@@ -10,4 +10,5 @@
   ]
 
 }
+
 

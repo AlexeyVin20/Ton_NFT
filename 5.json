@@ -1,0 +1,11 @@
+{
+  "name": "Exclusive Smart Pinguin",
+  "description": "Эксклюзивное изображение умного пингвина",
+  "image": "https://raw.githubusercontent.com/AlexeyVin20/Ton_NFT/refs/heads/main/Generated%20Image%20November%2027%2C%202025%20-%201_21PM.png",
+  "attributes": [
+    {
+      "trait_type": "Year",
+      "value": "2025"
+    }
+  ]
+}

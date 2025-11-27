@@ -1,0 +1,11 @@
+{
+  "name": "Rare Smart Giraffe",
+  "description": "Легендарное изображение умного жирафа",
+  "image": "https://raw.githubusercontent.com/AlexeyVin20/Ton_NFT/refs/heads/main/Generated%20Image%20November%2027%2C%202025%20-%201_20PM%20(1).png",
+  "attributes": [
+    {
+      "trait_type": "Year",
+      "value": "2025"
+    }
+  ]
+}
